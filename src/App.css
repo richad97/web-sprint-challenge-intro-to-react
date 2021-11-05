@@ -6,3 +6,15 @@
   text-shadow: 1px 1px 5px #fff;
 }
 /* write your parent styles in here for your App.js */
+ul {
+  border: 1px solid black;
+  margin: 0;
+  padding: 2rem 0;
+}
+li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 6rem;
+  margin: 0;
+}
